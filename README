@@ -1,5 +1,4 @@
-
-3) What I have done in the assignment: 
+What I have done in the assignment: 
     serverA.cpp: implement backend server A application
     serverB.cpp: implement backend server B application
     client.cpp: implement client application
