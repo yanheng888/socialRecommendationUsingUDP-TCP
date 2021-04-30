@@ -1,0 +1,14 @@
+
+3) What I have done in the assignment: 
+    serverA.cpp: implement backend server A application
+    serverB.cpp: implement backend server B application
+    client.cpp: implement client application
+    servermain.cpp: implement main server application
+
+    servermain.h: a header files for serverA,serverB,client.cpp, servermain.cpp. It includes many methods and variable which will be used
+    in serverA,serverB,client.cpp, servermain.cpp. 
+
+    dataA.txt: example data file for backend server A
+    dataB.txt: example data file for backend server A
+    more details are descripted in those cpp files
+
